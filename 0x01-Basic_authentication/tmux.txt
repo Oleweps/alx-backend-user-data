@@ -1,0 +1,7 @@
+tmux
+tmux split-window -h
+#Ctrl + b : resize-pane -U 5
+#to quit Ctrl + b, then d
+#another window Ctrl + b, then arrow key
+
+
